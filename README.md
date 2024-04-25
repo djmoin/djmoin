@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djmoin
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Data Structure and DataBase 
+- 🌱 I’m currently learning Data Structure and Algorithms 
 - 💞️ I’m looking to collaborate on (Currently not interested)
 - 📫 How to reach me moinulacps@gmail.com
 
